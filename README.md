@@ -1,6 +1,6 @@
 # Live Demo
 
-[Link](https://upd-062023-worker-list.surge.sh/))
+[Link](https://upd-062023-worker-list.surge.sh/)
 
 # test
 
